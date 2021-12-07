@@ -41,9 +41,5 @@
   </tr>
 </table>
 
-**Discord**
-<p align="center">
-    <a href="https://discord.gg/7UVyMnnPXW">
-  <img src="https://i.imgur.com/vTK04Ams.png" alt="Beds"/>
-    </a>
-</p>
+**Stats**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bedsroom&style=round-square&color=006400" alt="BedsRoom Profile Views" /> </p>
