@@ -40,3 +40,10 @@
     <td><a href="https://">Discord Server</a></td>
   </tr>
 </table>
+
+**Discord**
+<p align="center">
+    <a href="https://discord.gg/7UVyMnnPXW">
+  <img src="https://i.imgur.com/vTK04Ams.png" alt="Beds"/>
+    </a>
+</p>
