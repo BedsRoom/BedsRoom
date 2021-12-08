@@ -44,3 +44,9 @@
 
 **Stats**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bedsroom&style=round-square&color=006400" alt="BedsRoom Profile Views" /> </p>
+
+  
+**Profile**  
+  | <img src = "https://avatars2.githubusercontent.com/u/46641503?v=4"> | 
+| :----------------------------------------------------------: | 
+|     [BedsRoom](https://github.com/bedsroom) |           
