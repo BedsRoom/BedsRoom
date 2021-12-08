@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td>Contacts</td>
-    <td><a href="https://">Discord Server</a></td>
+    <td><a href="https://discord.gg/uZjg3Ydehd">Discord Server</a></td>
   </tr>
 </table>
 
