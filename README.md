@@ -2,7 +2,7 @@
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Beds©&fontSize=100&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
 **Stuff About Me**
-  **CEO OF BEDS**
+  CEO OF BEDS©
   
 <table>
   <tr>
