@@ -2,8 +2,6 @@
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Beds©&fontSize=100&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
 **Stuff About Me**
-  CEO OF BEDS©
-  
 <table>
   <tr>
     <td>Name</td>
@@ -33,6 +31,10 @@
   <tr>
     <td>Interests</td>
     <td><code>Discord Server Maker</code> <code>Web development</code> <code>App development</code> <code>Discord bot development</code></td>
+  </tr>
+  <tr>
+    <td>Stuff</td>
+    <td><code>I Am The Inventor And CEO Of Beds©<td>Interests</td><code></td>
   </tr>
   <tr>
     <td>Languages</td>
