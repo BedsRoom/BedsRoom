@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td>Stuff</td>
-    <td><code>I Am The Inventor And CEO Of Beds©<td></td>
+    <td><code>I Am The Inventor And CEO Of Beds©</td>
   </tr>
   <tr>
     <td>Languages</td>
