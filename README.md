@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>Contacts</td>
-    <td><a href="https://discord.gg/uZjg3Ydehd">Discord Server</a></td>
+    <td><a href="https://discord.gg/uZjg3Ydehd">Discord Server</a> <a>BedsRoom#9546<a></td>
   </tr>
 </table>
 
