@@ -54,3 +54,6 @@
   | <img src = "https://avatars.githubusercontent.com/u/91224083?v=4"> | 
 | :----------------------------------------------------------: | 
 |     [BedsRoom](https://github.com/bedsroom) |           
+  
+## Credits
+I thank all for helping me get to this point, I'm sorry if one day I never am to come back.
