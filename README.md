@@ -57,7 +57,7 @@
 
 **Bot Dashboard**    
     
-  | <img src = "https://www.bedsdash.c/logo.png"> | 
+  | <img src = "https://www.bedsdash.cf/logo.png"> | 
 | :----------------------------------------------------------: | 
 |     [BedsDash](https://www.bedsdash.cf) |   
 
