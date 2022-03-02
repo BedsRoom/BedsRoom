@@ -1,8 +1,5 @@
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=BedsRoom&fontSize=150&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Beds©&fontSize=100&fontAlignY=35&animation=twinkling&fontColor=gradient" />
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/567861998092550179
-                            )](https://discord.com/users/567861998092550179)
 
 **Stuff About Me**
 <table>
